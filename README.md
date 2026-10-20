@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello, folks!
+
+### My name is Hunter Edwards.
+
+There's not much to really say about me, save for the fact that I'm  just another person trying to figure out how the world works and how to make a computer sing.
 
 <!--
 **hedwards338/hedwards338** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
